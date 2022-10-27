@@ -2,7 +2,9 @@
 
 
 - 🌱 Estudando Análise e desenvolvimento de sistemas.
+- 👩‍💻 DevOps Analyst
 - ⚡ Fun fact: Cozinheira e coçadora de barriga de gatos nas horas vagas.
+
 
 <div align="center">
   <a href="https://github.com/Gisele-Costa">
