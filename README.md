@@ -17,9 +17,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Azure" height="30" width="40" src="https://cloudacademy.com/wp-content/uploads/2017/03/azure-apps.png">
-  <img align="center" alt="Ansible" height="30" width="40" src="https://ciscoredes.com.br/wp-content/uploads/2017/05/Ansible_logo.png">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-  <img align="center" alt="GithubActions" height="30" width="40" src="https://global-uploads.webflow.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg">
+  <img align="center" alt="Ansible" height="30" width="40" src="https://gitlab.geant.org/uploads/-/system/project/avatar/763/ansible_icon_light_blue.png">
+  <img align="center" alt="Linux" height="30" width="40" src="https://static-00.iconduck.com/assets.00/linux-icon-439x512-rnhe78x0.png">
+  <img align="center" alt="GithubActions" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1081/1*YErGpJzOEsui5ev3wK6Asg.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png">
 
