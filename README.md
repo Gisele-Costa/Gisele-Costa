@@ -16,10 +16,10 @@
   
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://cloudacademy.com/wp-content/uploads/2017/03/azure-apps.png">
+  <img align="center" alt="Ansible" height="30" width="40" src="https://ciscoredes.com.br/wp-content/uploads/2017/05/Ansible_logo.png">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
+  <img align="center" alt="GithubActions" height="30" width="40" src="https://global-uploads.webflow.com/6203daf47137054c031fa0e6/63306942721a28becf0ded7a_github-actions.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png">
 
