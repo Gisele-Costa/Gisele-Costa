@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Gisele Costa.
 
 
-- 🌱 Estudando Análise e desenvolvimento de sistemas.
-- 👩‍💻 DevOps Analyst
+- :rocket: Graduada em Análise e desenvolvimento de sistemas.
+- 👩‍💻 DevOps Engineeer
 - ⚡ Fun fact: Cozinheira e coçadora de barriga de gatos nas horas vagas.
 
 
