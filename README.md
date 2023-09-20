@@ -2,7 +2,7 @@
 
 
 - :rocket: Graduada em Análise e desenvolvimento de sistemas.
-- 👩‍💻 DevOps Engineeer
+- 👩‍💻 DevOps Engineer
 - ⚡ Fun fact: Cozinheira e coçadora de barriga de gatos nas horas vagas.
 
 
