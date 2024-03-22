@@ -13,7 +13,7 @@
 
 </div>
   
-  //&show_icons=true
+  <!--&show_icons=true-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Azure" height="30" width="40" src="https://cloudacademy.com/wp-content/uploads/2017/03/azure-apps.png">
