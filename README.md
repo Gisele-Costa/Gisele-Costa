@@ -16,7 +16,7 @@
   <!--&show_icons=true-->
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Azure" height="30" width="40" src="https://cloudacademy.com/wp-content/uploads/2017/03/azure-apps.png">
+  <img align="center" alt="Azure" height="30" width="40" src="[https://cloudacademy.com/wp-content/uploads/2017/03/azure-apps.png](https://img.icons8.com/fluent/512/azure-1.png)">
   <img align="center" alt="Ansible" height="30" width="40" src="https://gitlab.geant.org/uploads/-/system/project/avatar/763/ansible_icon_light_blue.png">
   <img align="center" alt="Linux" height="30" width="40" src="https://static-00.iconduck.com/assets.00/linux-icon-439x512-rnhe78x0.png">
   <img align="center" alt="GithubActions" height="30" width="40" src="https://avatars.githubusercontent.com/u/65916846?v=4">
