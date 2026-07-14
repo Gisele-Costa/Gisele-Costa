@@ -8,8 +8,14 @@
 
 <div align="center">
   <a href="https://github.com/Gisele-Costa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gisele-Costa&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-Costa&layout=compact&langs_count=7&theme=dracula"/>
+    <img
+      height="160em"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gisele-Costa&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
+    />
+    <img
+      height="160em"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gisele-Costa&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"
+    />
   </a>
 </div>
   
