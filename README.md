@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Cozinheira e coçadora de barriga de gatos nas horas vagas.
 
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/Gisele-Costa">
     <img
       height="160"
@@ -17,7 +17,7 @@
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gisele-Costa&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"
     />
   </a>
-</div>
+</div-->
   
   <!--&show_icons=true-->
 
