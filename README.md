@@ -21,7 +21,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://static-00.iconduck.com/assets.00/linux-icon-439x512-rnhe78x0.png">
   <img align="center" alt="GithubActions" height="30" width="40" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png"-->
+  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png">
 
 </div>
   
