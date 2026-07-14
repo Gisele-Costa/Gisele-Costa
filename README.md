@@ -9,12 +9,12 @@
 <div align="center">
   <a href="https://github.com/Gisele-Costa">
     <img
-      height="160em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gisele-Costa&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
+      height="160"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gisele-Costa&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=86400"
     />
     <img
-      height="160em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gisele-Costa&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"
+      height="160"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gisele-Costa&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"
     />
   </a>
 </div>
