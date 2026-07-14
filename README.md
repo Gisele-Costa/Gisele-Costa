@@ -10,7 +10,7 @@
   <a href="https://github.com/Gisele-Costa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gisele-Costa&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-Costa&layout=compact&langs_count=7&theme=dracula"/>
-
+  </a>
 </div>
   
   <!--&show_icons=true-->
